@@ -1,4 +1,4 @@
-MYSQL_HOST: "mysql-{{ ENVIRONMENT }}.daws82s.online"
+MYSQL_HOST: "mysql-{{ ENVIRONMENT }}.jobsearchindia.online"
 MYSQL_USER: root
 MYSQL_PASSWORD: expenseapp1
 APP_LOCAION: /app
